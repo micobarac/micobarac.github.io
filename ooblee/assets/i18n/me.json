@@ -1,0 +1,86 @@
+{
+  "title": "Ooblee",
+  "header": {
+    "get": "Preuzmite App"
+  },
+  "search": {
+    "placeholder": "Pretraga",
+    "country": {
+      "Montenegro": "Crna Gora"
+    },
+    "error": "Neispravni parametri pretrage"
+  },
+  "results": {
+    "products": {
+      "title": "Proizvodi",
+      "error": "Greška prilikom preuzimanja proizvoda",
+      "service": {
+        "1": "Kupite online i preuzmite u prodavnici",
+        "2": "Rezervišite sada i platite na licu mjesta",
+        "3": "Naručite sada i platite po dostavi",
+        "4": "Kupite online i sačekajte dostavu",
+        "5": "Kupite online i preuzmite",
+        "noService": "Nema usluge"
+      },
+      "timeLeft": "Preostalo vrijeme: {{ days }}d : {{ hours }}s : {{ minutes }}m : {{ seconds }}s",
+      "available": "Dostupno: {{ value }}",
+      "unknownDate": "Nepoznat datum",
+      "sponsored": "Sponzorisano",
+      "noCategories": "Bez kategorija"
+    },
+    "shops": {
+      "title": "Prodavnice",
+      "error": "Greška prilikom preuzimanja prodavnica",
+      "followers": "Pratioci",
+      "unknown": "nepoznato",
+      "share": "Podijeli",
+      "visit": "Posjetite profil"
+    },
+    "showing": "Prikazuje: <span>{{ value }} rezultata</span>",
+    "pagination": {
+      "previous": "Prethodno",
+      "next": "Sljedeće"
+    }
+  },
+  "popup": {
+    "download": "Preuzmite <span>ooblee</span> za nastavak"
+  },
+  "footer": {
+    "copyright": "© 2020 Copyright ooblee",
+    "download": "Besplatno prezimanje",
+    "privacy": {
+      "url": "https://www.ooblee.net/politika-privatnosti/?lang=bs",
+      "title": "Politika privatnosti"
+    },
+    "terms": {
+      "url": "https://www.ooblee.net/uslovi-koristenja/?lang=bs",
+      "title": "Uslovi korišćenja"
+    }
+  },
+  "menu": {
+    "about": {
+      "url": "https://www.ooblee.net/pocetna",
+      "title": "O ooblee"
+    },
+    "local": {
+      "url": "https://www.ooblee.net/za-lokalne-biznise",
+      "title": "Za lokalne biznise"
+    },
+    "self": {
+      "url": "https://www.ooblee.net/za-samozaposljavanje",
+      "title": "Za samozapošljavanje"
+    },
+    "ngo": {
+      "url": "https://www.ooblee.net/za-nvo",
+      "title": "Za NVO"
+    },
+    "contact": {
+      "url": "https://www.ooblee.net/kontakt",
+      "title": "Kontakt"
+    },
+    "brand": {
+      "url": "https://www.ooblee.net/brend-centar",
+      "title": "Brand centar"
+    }
+  }
+}

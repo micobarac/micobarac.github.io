@@ -1,0 +1,86 @@
+{
+  "title": "Ooblee",
+  "header": {
+    "get": "Get App"
+  },
+  "search": {
+    "placeholder": "Search",
+    "country": {
+      "Montenegro": "Montenegro"
+    },
+    "error": "Invalid search parameters"
+  },
+  "results": {
+    "products": {
+      "title": "Products",
+      "error": "Error getting products",
+      "service": {
+        "1": "Buy online pickup in store",
+        "2": "Reserve now pay on the spot",
+        "3": "Order now pay on delivery",
+        "4": "Buy online and wait for delivery",
+        "5": "Buy online and download",
+        "noService": "No service"
+      },
+      "timeLeft": "Time left: {{ days }}d : {{ hours }}h : {{ minutes }}m : {{ seconds }}s",
+      "available": "Available: {{ value }}",
+      "unknownDate": "Unknown date",
+      "sponsored": "Sponsored",
+      "noCategories": "No categories"
+    },
+    "shops": {
+      "title": "Shops",
+      "error": "Error getting shops",
+      "followers": "Followers",
+      "unknown": "unknown",
+      "share": "Share",
+      "visit": "Visit profile"
+    },
+    "showing": "Showing: <span>{{ value }} results</span>",
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next"
+    }
+  },
+  "popup": {
+    "download": "Download <span>ooblee</span> to continue"
+  },
+  "footer": {
+    "copyright": "© 2020 Copyright ooblee",
+    "download": "Free download",
+    "privacy": {
+      "url": "https://www.ooblee.net/privacy-policy",
+      "title": "Privacy"
+    },
+    "terms": {
+      "url": "https://www.ooblee.net/terms-and-conditions",
+      "title": "Terms & conditions"
+    }
+  },
+  "menu": {
+    "about": {
+      "url": "https://www.ooblee.net",
+      "title": "About ooblee"
+    },
+    "local": {
+      "url": "https://www.ooblee.net/for-local-businesses",
+      "title": "For local businesses"
+    },
+    "self": {
+      "url": "https://www.ooblee.net/for-self-employment",
+      "title": "For self-employment"
+    },
+    "ngo": {
+      "url": "https://www.ooblee.net/for-ngos",
+      "title": "For NGOs"
+    },
+    "contact": {
+      "url": "https://www.ooblee.net/contact-us",
+      "title": "Contact us"
+    },
+    "brand": {
+      "url": "https://www.ooblee.net/brand-centre",
+      "title": "Brand centre"
+    }
+  }
+}
